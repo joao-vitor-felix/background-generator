@@ -5,6 +5,11 @@ Este projeto foi criado para colocar em prática conhecimentos adquiridos com HT
 Layout do projeto:
 ![background-gradient](https://user-images.githubusercontent.com/105023388/186277219-ba0922e2-1975-44d2-9217-f237078c07b4.png)
 
+Tecnologias utilizadas:
+
+* HTML
+* CSS
+* Javascript
 
 Autor:
 João Vitor Félix Santos
